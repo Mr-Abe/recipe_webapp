@@ -152,4 +152,4 @@ cython_debug/
 #.idea/
 
 # Dependencies
-recipe-frontend/node_modules/
+node_modules
